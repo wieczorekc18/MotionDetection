@@ -1,0 +1,73 @@
+.hide{
+    display: none;
+
+}
+
+#canvas{
+    width: 10%;
+    height: 10%;
+}
+
+#video{
+    display: none;
+}
+
+.board{
+    width: 1200px;
+    height: 800px;
+    background-color: rgb(160, 160, 156);
+}
+
+.c{
+    border: 2px solid white;
+    width: 130px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 10%;
+
+}
+
+.d{
+    border: 2px solid white;
+    width: 130px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 10%;
+    margin-left: 300px;
+}
+.c{
+    border: 2px solid white;
+    width: 130px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 10%;
+}
+
+.e{
+    border: 2px solid white;
+    width: 130px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 10%;
+    margin-left: 300px;
+}
+
+.piles{
+    display: flex;
+    width: 1000px;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+.hand{
+    height: 100px;
+    width: 100px;
+    background-color: peachpuff;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.blue{
+    background-color: blue;
+}
