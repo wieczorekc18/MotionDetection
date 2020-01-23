@@ -1,4 +1,3 @@
-//source code taken from app academy
 
 const path = require("path");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
